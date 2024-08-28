@@ -1,6 +1,6 @@
 package org.example.gamesapi.feign;
 
-import org.example.gamesapi.DTO.GameDTO;
+import org.example.gamesapi.dto.GameDTO;
 import org.springframework.web.bind.annotation.GetMapping;
 
 import java.util.List;

@@ -1,4 +1,4 @@
-package org.example.gamesapi.DTO;
+package org.example.gamesapi.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
