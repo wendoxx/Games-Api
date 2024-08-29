@@ -7,7 +7,7 @@ import lombok.NoArgsConstructor;
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
-public class GameDTO {
+public class GamesDTO {
     private String name;
     private String description;
     private String price;
